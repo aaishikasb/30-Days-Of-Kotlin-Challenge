@@ -1,0 +1,2 @@
+rootProject.name='Good Calc'
+include ':app'
